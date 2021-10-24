@@ -2,5 +2,13 @@
     <string name="app_name">Zakat Calculator</string>
     <string name="btnHello">Calculate</string>
     <string name="nisab_threshold">Nisab Threshold</string>
-
+    <string name="Libility1">Borrowed money, goods bought on credit</string>
+    <string name="Libility2">Wages due to employees</string>
+    <string name="Libility3">Taxes, Rent, utility bills due immediately</string>
+    <string name="Cash1">Cash in hand and in bank accounts</string>
+    <string name="Cash2">Cash deposited for some future purpose, e.g. Hajj</string>
+    <string name="Cash3">Cash given out in loans</string>
+    <string name="Cash4">Investments, shares, saving certificates, pensions funded by money in one’s possession</string>
+    <string name="asset1">Value of Gold</string>
+    <string name="asset2">Value of Silver</string>
 </resources>
